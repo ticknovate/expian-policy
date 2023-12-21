@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: test.mail.expian.io
 mx: mail.expian.io
 mx: expian.io
