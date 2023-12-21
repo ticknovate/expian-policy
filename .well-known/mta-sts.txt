@@ -3,4 +3,6 @@ mode: testing
 mx: mail.expian.io
 mx: test.mail.expian.io
 mx: expian.io
+mx: *.amazonaws.com
+mx: *.google.com
 max_age: 86401
