@@ -1,6 +1,4 @@
 version: STSv1
 mode: testing
-mx: test.mail.expian.io
-mx: mail.expian.io
-mx: expian.io
+mx: *.expian.io
 max_age: 86401
