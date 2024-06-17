@@ -2,6 +2,8 @@ version: STSv1
 mode: enforce
 mx: mail.expian.io
 mx: test.mail.expian.io
+mx: uat.mail.expian.io
+mx: prod.mail.expian.io
 mx: expian.io
 mx: aspmx.l.google.com
 mx: alt1.aspmx.l.google.com
